@@ -4,7 +4,7 @@
 
 float fact(float);
 int main(){
-    int user_input=5;
+    int user_input;
     float i, sum=0;
 
     printf("Enter a number: ");
