@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main(){
-    int range, prime_start = 2;
+    int range;
     printf("Enter range to generate prime no. series: ");
     scanf("%d", &range);
     
